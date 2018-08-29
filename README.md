@@ -1,2 +1,2 @@
-# python_basics
-Exercises from NYU Stern Python Data Bootcamp Course - Fall 2017 
+# Projects
+This is a personal collection of data and business analytics project
